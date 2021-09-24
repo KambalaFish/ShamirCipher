@@ -1,1 +1,1 @@
-# ShamirCipher for cryptography university course
+# ShamirCipher for university cryptography course
